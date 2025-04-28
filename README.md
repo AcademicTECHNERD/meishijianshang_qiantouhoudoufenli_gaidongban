@@ -1,4 +1,3 @@
-# -
 美食鉴赏系统优化2025版本，原型是一个前后端半分离，被我改成了前后端分离。关于分离方法具体可以看看我的博客：https://blog.csdn.net/qq_55018264/article/details/147575012?fromshare=blogdetail&sharetype=blogdetail&sharerId=147575012&sharerefer=PC&sharesource=qq_55018264&sharefrom=from_link
 原项目位置：https://github.com/zongjixiaoai66/FoodSharingPlatform
 
